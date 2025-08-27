@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/hibiken/asynq"
-	"github.com/hibiken/asynqmon"
+	"github.com/bluebusy/asynq"
+	"github.com/bluebusy/asynqmon"
 )
 
 func ExampleHTTPHandler() {

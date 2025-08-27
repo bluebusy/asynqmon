@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
-	"github.com/hibiken/asynq"
+	"github.com/bluebusy/asynq"
 	"github.com/redis/go-redis/v9"
 )
 
